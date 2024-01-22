@@ -9,3 +9,4 @@
 ## 项目列表
 
 - [helloworld](helloworld) 这是第一个项目，也是最简单的项目，演示了 [fmt](https://github.com/fmtlib/fmt "fmt") 库的使用
+- [wxwidgets_helloworld](wxwidgets_helloworld) 这个是 wxWidgets 学习库。

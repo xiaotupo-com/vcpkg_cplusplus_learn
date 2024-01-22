@@ -4,5 +4,5 @@ project(cpp_examples)
 
 
 add_subdirectory(helloworld)
-
+add_subdirectory(wxwidgets_helloworld)
 

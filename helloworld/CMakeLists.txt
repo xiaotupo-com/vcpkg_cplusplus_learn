@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 find_package(fmt CONFIG REQUIRED)
 
+include_directories(include)
 aux_source_directory(src src_dir)
 
 add_executable(${PROJECT_NAME} ${src_dir})

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.toml": "toml",
+        "*.vue": "vue",
+        "*.html": "html",
+        "*.h": "cpp",
+        "*.in": "cpp",
+        "chrono": "cpp"
+    }
+}
